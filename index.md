@@ -8,7 +8,7 @@
     <script SameSite="None; Secure" src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
     <script>
       var myLandbot = new LandbotFullpage({
-        index: 'https://landbot.io/u/H-460447-C1756MKHL9NR600T/index.html',
+        index: 'https://landbot.io/u/H-460464-OT44HCH6DXFLM2QI/index.html',
       });
     </script>
   </body>
