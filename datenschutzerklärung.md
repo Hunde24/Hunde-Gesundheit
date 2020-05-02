@@ -35,6 +35,25 @@
 <p>Die Daten werden gelöscht, sobald diese für den Zweck der Erhebung nicht mehr erforderlich sind. Dies ist für die Daten, die der Bereitstellung der Webseite dienen, grundsätzlich der Fall, wenn die jeweilige Sitzung beendet ist.</p>
 <h3>Bereitstellung vorgeschrieben oder erforderlich:</h3>
 <p>Die Bereitstellung der vorgenannten personenbezogenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die IP-Adresse ist jedoch der Dienst und die Funktionsfähigkeit unserer Website nicht gewährleistet. Zudem können einzelne Dienste und Services nicht verfügbar oder eingeschränkt sein. Aus diesem Grund ist ein Widerspruch ausgeschlossen. </p>
+<h2>Unsere Onlinepräsenz auf Facebook</h2>
+
+<p>Unsere Präsenz auf sozialen Netzwerken und Plattformen dient einer besseren, aktiven Kommunikation mit unseren Kunden und Interessenten. Wir informieren dort über unsere Produkte und laufende Sonderaktionen.
+Bei dem Besuch unserer Onlinepräsenzen in sozialen Medien können Ihre Daten für Marktforschungs- und Werbezwecke automatisch erhoben und gespeichert werden. Aus diesen Daten werden unter Verwendung von Pseudonymen sog. Nutzungsprofile erstellt. Diese können verwendet werden, um z.B. Werbeanzeigen innerhalb und außerhalb der Plattformen zu schalten, die mutmaßlich Ihren Interessen entsprechen. Zu diesem Zweck werden im Regelfall Cookies auf Ihrem Endgerät eingesetzt. In diesen Cookies werden das Besucherverhalten und die Interessen der Nutzer gespeichert. Dies dient gem. Art. 6 Abs. 1 lit. f. DSGVO der Wahrung unserer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimierten Darstellung unseres Angebots und effektiver Kommunikation mit den Kunden und Interessenten. Falls Sie von den jeweiligen Social-Media Plattformbetreibern um eine Einwilligung (Einverständnis) in die Datenverarbeitung gebeten werden, z.B. mit Hilfe einer Checkbox, ist die Rechtsgrundlage der Datenverarbeitung Art. 6 Abs. 1 lit. a DSGVO.
+Soweit die vorgenannten Social-Media Plattformen ihren Hauptsitz in den USA haben, gilt Folgendes: Für die USA liegt ein Angemessenheitsbeschluss der Europäischen Kommission vor. Dieser geht zurück auf den EU-US Privacy Shield. Ein aktuelles Zertifikat für das jeweilige Unternehmen kann hier eingesehen werden.
+Die detaillierten Informationen zur Verarbeitung und Nutzung der Daten durch die Anbieter auf deren Seiten sowie eine Kontaktmöglichkeit und Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre, insbesondere Widerspruchsmöglichkeiten (Opt-Out), entnehmen Sie bitte den unten verlinkten Datenschutzhinweisen der Anbieter. Sollten Sie diesbezüglich dennoch Hilfe benötigen, können Sie sich an uns wenden.
+
+Facebook: https://www.facebook.com/about/privacy/
+Die Datenverarbeitung erfolgt auf Grundlage einer Vereinbarung zwischen gemeinsam Verantwortlichen gemäß Art. 26 DSGVO, die Sie hier einsehen können.
+Weitere Informationen zur Datenverarbeitung im Rahmen des Besuchs einer Facebook Fanpage (Informationen zu Insights-Daten) finden Sie hier.
+
+Instagram: https://help.instagram.com/519522125107875
+
+Widerspruchsmöglichkeit (Opt-Out):
+
+Facebook: https://www.facebook.com/settings?tab=ads
+
+Instagram: https://help.instagram.com/519522125107875 </p>
+
 <p></p><h2>Verwendung von Google Analytics</h2>
 <h3>Art und Zweck der Verarbeitung:</h3>
 <p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA (nachfolgend: „Google“). Google Analytics verwendet sog. „Cookies“, also Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Webseite werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Aufgrund der Aktivierung der IP-Anonymisierung auf diesen Webseiten, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Webseite auszuwerten, um Reports über die Webseitenaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Webseitenbetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.</p>
