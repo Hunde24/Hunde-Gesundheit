@@ -1,16 +1,9 @@
 <html>
   <head>
      <meta http-equiv="Refresh" content="0; URL=https://www.digistore24.com/redir/290123/sineps/">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Landbot | Convert a Landing Page into a Chatbot</title>
+   
   </head>
   <body>
-    <script SameSite="None; Secure" src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
-    <script>
-      var myLandbot = new LandbotFullpage({
-        index: 'https://landbot.io/u/H-460464-OT44HCH6DXFLM2QI/index.html',
-      });
-    </script>
+    
   </body>
 </html>
