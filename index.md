@@ -1,5 +1,6 @@
 <html>
   <head>
+     <meta http-equiv="Refresh" content="0; URL=https://www.digistore24.com/redir/290123/sineps/">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Landbot | Convert a Landing Page into a Chatbot</title>
